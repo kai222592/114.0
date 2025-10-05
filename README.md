@@ -11,5 +11,3 @@ color:
 ```
 
 ---
-
-[3.6](https://www.ldshop.gg/tw/blog/news/honkai-star-rail-3-6-banners.html)
